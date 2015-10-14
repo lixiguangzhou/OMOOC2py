@@ -4,7 +4,7 @@
 * [教学反转](0MOOC/README.md)
 * [基础旋进](1sTry/README.md)
 * [学习记录](xuexi_ji_lu_md.md)
-   * 2015.10.13 如何聪明地提问题
+   * [2015.10.13 如何聪明地提问题](20151013_ru_he_cong_ming_di_ti_wen_ti.md)
    * [2015.10.10 开课](20151010_kai_ke.md)
 * [迭代作品](2nDev/README.md)
 * [人生首秀](3rDemo/README.md)
