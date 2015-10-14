@@ -11,3 +11,6 @@
     }
 }
 
+<pre><code class="python">
+print "Hello World"
+</code></pre>
