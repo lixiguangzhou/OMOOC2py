@@ -5,11 +5,11 @@
 
 
 
-{
-"plugins": ["disqus"],
-“pluginsConfig”: {
-"disqus": {
- “shortName":” “lixiguagnzhou-163”
-  }
+ "plugins": [
+        "disqus"
+    ],
+    "pluginsConfig": {
+        "shortName": "lixiguagnzhou-163"
+    }
 }
-}
+
