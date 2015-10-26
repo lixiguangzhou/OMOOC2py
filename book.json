@@ -1,20 +1,33 @@
-{"title": "开智学院 编程课程 Python 入门班 私人教程模板",
+
+{
+    "title": "小赖的python学习笔记",
     "version": "15.9.18,2020",
-    "description": "OMOOC.py tutorial for teching",
-    "author": "OMOOC-support <omooc-support@googlegroups.com>",
+    "description": "记录学习python过程中的点点滴滴",
+    "author": "Alan Lai <techwplai@gmail.com>",
 
-    <div id="disqus_thread"></div>
-<script type="text/javascript">
-/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-var disqus_shortname = 'lixilixi'; // required: replace example with your forum shortname
+    "plugins": [
+        "disqus",  "quiz", "katex"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "wp-lai"
+        },
 
-/* * * DON'T EDIT BELOW THIS LINE * * */
-(function() {
-var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+        "quiz": {
+            "labels": {
+                "showCorrect"       : "显示正确答案",
+                "check"             : "确认",
+                "showExplanation"   : "查看解释",
+                "explanationHeader" : "Explanation"
+            },
+            "text": {
+                "noChosen"    : "",
+                "incomplete"  : ""
+            },
+            "buttons": {
+                "showCorrect"       : true, 
+                "showExplanation"   : true
+            }
+        }
+    }
 }
