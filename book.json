@@ -3,11 +3,13 @@
     "description": "OMOOC.py tutorial for teching",
     "author": "OMOOC-support <omooc-support@googlegroups.com>",
 
-    "plugins": [
-        "disqus"
-    ],
-    "pluginsConfig": {
-            "disqus": {
-                "shortName": "the_hope_lixi"
-    }
+
+
+{
+"plugins": ["disqus"],
+“pluginsConfig”: {
+"disqus": {
+ “shortName":” “lixiguagnzhou-163”
+  }
+}
 }
