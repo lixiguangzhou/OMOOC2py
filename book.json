@@ -7,7 +7,7 @@
     "plugins": ["disqus"],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "lixilixi"
+            "shortName": "lixiguangzhou"
         }
     }
 }
