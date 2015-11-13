@@ -7,7 +7,7 @@
    * [2015.10.13 如何聪明地提问题](20151013_ru_he_cong_ming_di_ti_wen_ti.md)
        * Notes for Python Lecture (4WD4)
    * [2015.10.10 开课](20151010_kai_ke.md)
-   * Notes for Python Lecture (4WD4) Ver:1.001
+   * [Notes for Python Lecture (4WD4) Ver:1.001](notes_for_python_lecture_4wd4_ver1001.md)
 * [迭代作品](2nDev/README.md)
 * [人生首秀](3rDemo/README.md)
 * [代码 (_src)](_src/README.md)
