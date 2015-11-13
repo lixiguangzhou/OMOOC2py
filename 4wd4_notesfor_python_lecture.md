@@ -3,7 +3,7 @@
 ## Topic1:入门的状态是不存在!
 Don’t waiting just do it. Immediately!
 
-那天大妈一语惊人，根本没有“入门”一说，只要一动手马上就入门，进入状态的了。
+那天大妈一语惊人，根本没有“入门”一说，只要一动手马上就入门，进入状态的了。以前一直觉得学一样东西之前一定要掌握某些东西才能入门，只要不做这些事情是无法入门的。
  
 ## Topic2: 观察自己的变化
 Intrapersonal intelligence is one of the most important abilities. This means people should notice the difference from preceding yourself.
