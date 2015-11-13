@@ -12,7 +12,7 @@ Intrapersonal intelligence is one of the most important abilities. This means pe
  
 ## Topic3: MVP (最小可用产品)积累每一个小的成就
 As long as you achieve a small goal, launch it.
-
+完成设定最小的目标，不理其他地方绑架。
 
 ---- 
 To be continued to add more details.
